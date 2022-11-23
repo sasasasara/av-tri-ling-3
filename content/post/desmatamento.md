@@ -3,7 +3,6 @@ title: "Desmatamento em territórios indígenas vem aumentando nos últimos anos
 description: "Territórios indígenas"
 featured_image: "/images/desmatamento.jpg"
 date: 2022-11-23T10:09:58-03:00
-draft: true
 ---
 
 **Cerca de um quinto da vegetação nativa do país está em terras indígenas.**

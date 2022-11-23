@@ -3,7 +3,6 @@ title: "Arte indígena pré-cabralina: Cerâmica marajoara"
 featured_image: "/images/marajoara.jpg"
 description: "Arte indígena"
 date: 2022-11-23T10:05:21-03:00
-draft: true
 ---
 
 # Cerâmica marajoara
