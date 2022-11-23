@@ -1,4 +1,5 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://av-tri-lang-3.netlify.app'
 languageCode = 'pt-br'
 title = 'Av Tri Ling 3'
 theme = 'ananke'
+defaultContentLanguage = 'pt'
