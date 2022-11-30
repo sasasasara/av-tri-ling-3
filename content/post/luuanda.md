@@ -15,4 +15,4 @@ Segundo José Manuel Mendes, presidente da Associação Portuguesa de Escritores
 
 Em suas três narrativas, o livro retrata a vida mundana nos bairros pobres de Luanda em que o autor viveu. Como Margarida Calafate Ribeiro, que entrevistou o autor, escreveu, "Luuanda ganhou um lugar tanto na história portuguesa como na angolana como um momento-chave do enfrentamento. A sua comemoração envolve, para nós, a partilha da história de Luuanda por José Luandino Vieira".
 
-#### Fonte: [Wikipedia](https://pt.wikipedia.org/wiki/Nelson_Mandela)
+#### Fonte: [Wikipedia](https://pt.wikipedia.org/wiki/Luuanda)
